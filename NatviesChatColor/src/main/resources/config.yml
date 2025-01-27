@@ -1,0 +1,7 @@
+#Сообщения можно изменить скачав программу InJarTranslator.jar
+#И в строке поиска написать нужное вам соообщение для редактирования, после нажмите кнопку "Save JAR"
+#И обезательно перезапустите ваш сервер
+permissions:
+  use: chatcolor.use
+  clear: chatcolor.clear
+  reload: chatcolor.reload
